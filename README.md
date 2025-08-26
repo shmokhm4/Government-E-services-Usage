@@ -63,6 +63,7 @@ You can explore the cleaning and preparation steps in this [Google Colab noteboo
 | Region | Region Usage | Gender | Gender Usage |
 |--------|--------------|--------|--------------|
 | تبوك  | 98.30        | الذكور | 96.80        |
+---
 
 ##  Summary
 
@@ -75,3 +76,4 @@ You can explore the cleaning and preparation steps in this [Google Colab noteboo
   - **Femals**: 92.70 → 93.90  
 - **Overall trend:** Most regions and both genders showed growth from 2021 to 2024.  
 
+---
